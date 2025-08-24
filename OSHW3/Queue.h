@@ -1,6 +1,4 @@
-//
-// Created by Yosef Sabbah on 06/03/2024.
-//
+
 
 #ifndef HW3_OS_QUEUE_H
 #define HW3_OS_QUEUE_H
